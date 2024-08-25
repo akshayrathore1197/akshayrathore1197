@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to Javascript and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: Your Life
 
 <br/>
 

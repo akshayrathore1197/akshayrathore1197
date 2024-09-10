@@ -10,7 +10,7 @@
 
 - 👨‍🎓I'm Currently in CSE 3rd Year
 
-- 🌱 Learning JavaScript and Data Structures and Algorithms
+- 🌱 Learning Full Stack (Not MERN) and Data Structures and Algorithms
 
 - ❓ Ask me about anything related to Javascript and related technologies
 

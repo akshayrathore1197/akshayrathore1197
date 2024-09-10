@@ -12,7 +12,7 @@
 
 - 🌱 Learning Full Stack (Not MERN) and Data Structures and Algorithms
 
-- ❓ Ask me about anything related to Javascript and related technologies
+- ❓ Ask me about anything related to Development and related technologies
 
 - ⚡ Fun fact: Your Life
 

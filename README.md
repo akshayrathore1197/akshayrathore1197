@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to Development and related technologies
 
-- ⚡ Fun fact: Your Life
+- ⚡ Fun fact : Your Life
 
 <br/>
 
